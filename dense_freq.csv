@@ -1,0 +1,30 @@
+,band,freq,unit
+0,2-7 keV Chandra,9.19e+17,erg/cm^2/s
+1,0.5-7 keV Chandra,5.56e+17,erg/cm^2/s
+2,1.2-2 keV Chandra,3.77e+17,erg/cm^2/s
+3,0.5-1.2 keV Chandra,2.22e+17,erg/cm^2/s
+4,0.2-0.5 keV Chandra,9.67e+16,erg/cm^2/s
+5,0.3-8 keV (Chandra),1e+18,erg/cm^2^/s
+6,0.5-2 keV (Chandra),3.02e+17,erg/cm^2^/s
+7,FUV (GALEX) AB,1950000000000000.0,mag
+8,NUV (GALEX) AB,1290000000000000.0,mag
+9,u (SDSS PSF) AB,836000000000000.0,asinh mag
+10,g (SDSS PSF) AB,617000000000000.0,asinh mag
+11,r (SDSS PSF) AB,477000000000000.0,asinh mag
+12,i (SDSS PSF) AB,389000000000000.0,asinh mag
+13,z (SDSS PSF) AB,325000000000000.0,asinh mag
+14,W1 (WISE),89400000000000.0,mag
+15,W2 (WISE),65100000000000.0,mag
+16,W3 (WISE),25900000000000.0,mag
+17,W4 (WISE),13600000000000.0,mag
+18,2-10 keV (XMM),1.45e+18,erg/cm^2^/s
+19,4.5 microns (IRAC),66700000000000.0,microJy
+20,8.0 microns (IRAC),38100000000000.0,microJy
+21,24 microns (MIPS),12700000000000.0,microJy
+22,J (2MASS/CTIO),243000000000000.0,mag
+23,H (2MASS/CTIO),180000000000000.0,mag
+24,K_s (2MASS/CTIO),139000000000000.0,mag
+25,0.5-8 keV (Chandra),1.03e+18,log(erg/cm^2^/s)
+26,3.6 microns (IRAC),84400000000000.0,microJy
+27,5.8 microns (IRAC),52300000000000.0,microJy
+28,1-2 keV (Chandra),3.63e+17,erg/cm^2^/s

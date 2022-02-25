@@ -1,0 +1,6 @@
+,band_rem,class,precision,recall
+0,X-ray variability -wise-2mass,AGN,0.9230769230769231,0.9411764705882353
+1,X-ray variability -wise-2mass,STAR,0.9452054794520548,0.9078947368421053
+2,X-ray variability -wise-2mass,ULX,0.5,0.6666666666666666
+3,X-ray variability -wise-2mass,XRB,0.7142857142857143,0.7471264367816092
+4,X-ray variability -wise-2mass,YSO,1.0,0.9411764705882353
